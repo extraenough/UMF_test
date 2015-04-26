@@ -1,0 +1,9 @@
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\bin\Debug\УМФ.exe.config
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\bin\Debug\УМФ.exe
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\bin\Debug\УМФ.pdb
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\obj\Debug\УМФ.Form1.resources
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\obj\Debug\УМФ.Properties.Resources.resources
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\obj\Debug\УМФ.csproj.GenerateResource.Cache
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\obj\Debug\УМФ.exe
+C:\Users\pm\documents\visual studio 2012\Projects\УМФ\УМФ\obj\Debug\УМФ.pdb
+C:\Users\pm\Documents\Visual Studio 2012\Projects\УМФ\УМФ\obj\Debug\УМФ.csprojResolveAssemblyReference.cache
